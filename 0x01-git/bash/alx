@@ -1,1 +1,5 @@
-#!/bin/bash\n echo "ALX" 
+
+
+echo "The school is open"
+##!/bin/bash 
+#echo "Alx school is so cool"
